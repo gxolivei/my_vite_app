@@ -71,3 +71,5 @@ end
 gem "vite_rails", "~> 3.0"
 
 gem "vite_ruby", "~> 3.3"
+
+gem "devise"
